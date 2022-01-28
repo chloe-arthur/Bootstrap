@@ -32,7 +32,7 @@
   --bs-gray-600: #6c757d;
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
-  --bs-gray-900: #ff1e00;
+  --bs-gray-900: #212529;
   --bs-primary: #64a19d;
   --bs-secondary: #7464a1;
   --bs-success: #67c29c;
@@ -40,7 +40,7 @@
   --bs-warning: #e4c662;
   --bs-danger: #a16468;
   --bs-light: #f8f9fa;
-  --bs-dark: #ff06c1;
+  --bs-dark: #212529;
   --bs-black: #000;
   --bs-white: #fff;
   --bs-primary-rgb: 100, 161, 157;
@@ -64,7 +64,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #df1e9f;
   --bs-body-bg: #fff;
 }
 
