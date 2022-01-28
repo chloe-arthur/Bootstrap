@@ -11610,6 +11610,8 @@ body {
 }
 .about-section p {
   margin-bottom: 5rem;
+  margin-left: -15rem;
+  margin-right: -15rem;
 }
 
 .projects-section {
