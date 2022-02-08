@@ -11628,16 +11628,16 @@ body {
 }
 .projects-section .project-text {
   padding: 3rem;
-  font-size: 90%;
+  font-size: 70%;
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 2rem;
   }
   .projects-section .project-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
-    width: 20%;
+    width: 90%;
   }
 }
 
